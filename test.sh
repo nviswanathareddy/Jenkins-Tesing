@@ -2,4 +2,4 @@
 
 echo "Testing Jenkins Examples"
 date
-echo "Testing GIT WebHooks SCM Polling"
+echo "Testing GIT SCM Polling"
